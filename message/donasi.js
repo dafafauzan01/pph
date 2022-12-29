@@ -4,11 +4,9 @@ return`
 *┴*
 *│* Bantu Developer ngembangin bot ini
 *│* dengan donasi seiklasnya 🙂
-*│*
-*│* Shopee : 085156137901
-*│* Gopay : 085156137901
-*│* Dana : 085156137901
-*│* Ovo : 085156137901
+*│* Pulda : 083843400022
+*│* Dana : 083843400022
+*│* Ovo : 083843400022
 *│*
 *│* Makasih yang udah donasi
 *│* dan bantu ngembangin bot ini
